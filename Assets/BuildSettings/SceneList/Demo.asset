@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aff50520461b4f4793f460a41194a2e, type: 3}
+  m_Name: Demo
+  m_EditorClassIdentifier: 
+  Name: Boot-MainMenu-Odd(Level 1)
+  Category: 
+  Scenes:
+  - {fileID: 102900000, guid: 501f94de029d9ef408eb2f24bc3bf334, type: 3}
+  - {fileID: 102900000, guid: 7e505cae107028b4895b35a1871e10b6, type: 3}
+  - {fileID: 102900000, guid: 20c6cfa4ca4ef7a4aa5bb9c007d3c9b1, type: 3}
